@@ -193,7 +193,7 @@ export default function Hero() {
             >
               AI & ML undergraduate passionate about building intelligent systems. 
               Specializing in NLP, deep learning, and real-world AI applications 
-              with a 8.03 CGPA at GITAM University.
+              with a 7.93 CGPA at GITAM University.
             </motion.p>
 
             <motion.div

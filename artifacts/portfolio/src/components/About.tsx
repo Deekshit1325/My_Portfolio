@@ -2,8 +2,8 @@ import { motion } from "framer-motion";
 import { useInView } from "@/hooks/useInView";
 
 const stats = [
-  { value: "8.03", label: "CGPA", suffix: "" },
-  { value: "97", label: "Model Accuracy", suffix: "%" },
+  { value: "7.93", label: "CGPA", suffix: "" },
+  { value: "2", label: "Projects", suffix: "" },
   { value: "2", label: "Internships", suffix: "+" },
   { value: "4", label: "Certifications", suffix: "" },
 ];
@@ -99,7 +99,7 @@ export default function About() {
                   <div className="w-2 h-2 rounded-full bg-primary mt-2 flex-shrink-0"></div>
                   <div>
                     <p className="text-foreground text-sm font-medium">GITAM Deemed University</p>
-                    <p className="text-muted-foreground text-xs">B.Tech CSE (AI & ML) — CGPA: 8.03</p>
+                    <p className="text-muted-foreground text-xs">B.Tech CSE (AI & ML) — CGPA: 7.93</p>
                     <p className="text-muted-foreground text-xs font-mono">Aug 2023 — Apr 2027</p>
                   </div>
                 </div>
